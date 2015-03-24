@@ -1,2 +1,4 @@
 # Test
-My first repository
+My first repository on GitHub.
+
+I like :pizza:.
